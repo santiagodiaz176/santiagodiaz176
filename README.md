@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Santiago Díaz Marín <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-<div align="center" width="50">
+[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Estudiante de programacion de sofware
 
