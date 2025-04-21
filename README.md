@@ -20,6 +20,8 @@
 - :computer: Actualmente estoy desarrollando una aplicación web para la evaluación automática de estudiantes.
 - :nerd_face: Siempre aprendiendo nuevas tecnologías y herramientas.
 - :thinking: Actualmente en búsqueda de nuevas oportunidades profesionales.
+
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 ## C O N T A C T O
 
