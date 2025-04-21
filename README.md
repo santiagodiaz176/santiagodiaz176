@@ -27,15 +27,11 @@
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
----
-
 ## 📬 Contact
 
 - 📍 Location: Medellín, Antioquia, Colombia
 - 📧 Email: santiagodiazmarin2018@gmail.com
 - 📱 Phone: +57 313 530 1221
-
----
 
 ## 💼 Experience
 
@@ -43,28 +39,16 @@
 - 🏫 Institution: I.E. Barrio Santander (2023)
 - 📝 Description: Developed a web application to assess students' knowledge with automatic grading to reduce manual work for teachers.
 
----
-
 ## 🎓 Education
 
 - 🧑‍🎓 Technologist in Software Analysis and Development – *SENA* (In progress)
 - 🎓 Technical High School in Software Development – *I.E. Barrio Santander* (2023)
-
----
 
 ## 📚 Complementary Studies
 
 - 🖥️ Introduction to Virtual Machines – Security Blue Team *(In Progress)*
 - 💻 Introduction to Bash – Security Blue Team *(In Progress)*
 
----
-
-## 📇 References
-
-- 🧔‍♂️ Raul Andrés Berrio – Social Communicator – 📞 3175015598
-- 👨‍💼 Andrés Eduardo Restrepo – Telecommunications Engineer – 📞 3023250391
-
----
 
 ## 🛠️ My Skills
 
