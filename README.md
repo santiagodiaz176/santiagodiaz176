@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/SantiagoDiazMarin">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Technician;Full+Stack+Web+Student;Backend+Developer;Always+learning+new+things;Tech+Enthusiast&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Technician;Software+Analysis+and+Development+Student;Problem+Solving;Critical+Thinking;Always+Learning+New+Things&center=true&width=500&height=45" />
   </a>
 </p>
+
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
