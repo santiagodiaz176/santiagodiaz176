@@ -1,76 +1,72 @@
 <table>
   <tr>
-    <td width="60%">
-      <h1>Hello there! 👋 I'm <strong>Santiago Díaz Marín</strong></h1>
-      <h3>💻 Software development technician & technology student in software analysis and development</h3>
-      <p>
-        I’m passionate about tech and creating digital solutions. I love working on web development, databases, and Python automation.  
-        I stand out for my teamwork, communication skills, and constant desire to improve.
-      </p>
+    <td width="60%" valign="top">
+      <div style="text-align: left;">
+        <h1 style="font-size: 32px; font-weight: bold;">Santiago Díaz Marín</h1>
+        <p><strong>Software Developer | Junior Full Stack Developer</strong></p>
+        <p>
+          I am a passionate and dedicated software technician currently pursuing a degree in Software Analysis and Development at SENA. 
+          I possess a strong foundation in web development, backend scripting, and relational databases.
+        </p>
+        <p>
+          Known for my excellent communication skills, adaptability, and collaborative approach to teamwork, 
+          I thrive in environments where continuous learning and innovation are encouraged.
+        </p>
+        <br>
+        <ul>
+          <li><strong>Location:</strong> Medellín, Colombia</li>
+          <li><strong>Email:</strong> santiagodiazmarin2018@gmail.com</li>
+          <li><strong>Phone:</strong> +57 313 530 1221</li>
+        </ul>
+      </div>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer gif" width="300"/>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer Animation" width="250" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧑‍💼 Professional Profile
+## Technologies
 
-Software Development Technician and current student of Software Analysis and Development at **SENA**.  
-Skilled in programming fundamentals, problem-solving, critical thinking, and modern web technologies.
-
----
-
-### 🛠️ Technologies and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql" alt="Technologies" />
-</p>
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql" />
+</div>
 
 ---
 
-### 🚀 Projects
+## Project Experience
 
-📚 **Academic Grading Web App**  
-📍 *I.E. Barrio Santander – 2023*  
-A web application that automates student assessments and grading, reducing teachers' workload and improving efficiency.  
+### Academic Evaluation Web App  
+**I.E. Barrio Santander – 2023**
 
-**Tech stack:** HTML, CSS, JavaScript, MySQL
+Developed a web-based platform that enables teachers to automatically grade student responses, saving time and improving efficiency.
 
----
-
-### 🎓 Education
-
-- 🎓 **Software Analysis and Development (Technologist)** – SENA (In Progress)  
-- 💼 **Software Development Technician** – I.E. Barrio Santander (2023)
+**Technologies used:** HTML, CSS, JavaScript, MySQL
 
 ---
 
-### 📚 Extra Courses
+## Education
 
-- 🛠️ *Introduction to Virtual Machines* – Security Blue Team (In progress)  
-- 🖥️ *Introduction to Bash* – Security Blue Team (In progress)
+- **Technologist in Software Analysis and Development**  
+  SENA – *Currently Enrolled*
 
----
-
-### 📫 Contact Me
-
-- 📍 Medellín, Colombia  
-- 📧 santiagodiazmarin2018@gmail.com  
-- 📱 +57 313 530 1221
+- **Software Development Technician**  
+  I.E. Barrio Santander – 2023
 
 ---
 
-### 📊 GitHub Stats
+## Additional Training
+
+- *Introduction to Virtual Machines* – Security Blue Team *(Ongoing)*  
+- *Introduction to Bash* – Security Blue Team *(Ongoing)*
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoDiazMarin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoDiazMarin&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoDiazMarin&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoDiazMarin&show_icons=true&theme=transparent" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoDiazMarin&layout=compact&theme=transparent" width="300" />
 </p>
