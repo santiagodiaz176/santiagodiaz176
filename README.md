@@ -10,9 +10,6 @@ Técnico en Desarrollo de Software y estudiante de Tecnología en Análisis y De
 ✨ Me caracterizo por tener excelentes relaciones interpersonales, habilidades comunicacionales, y una gran disposición para el trabajo en equipo.
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Bienvenida animada" width="600"/>
-</p>
 
 
 ### 🛠️ Tecnologías y herramientas que manejo
