@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Bienvenida animada" width="600"/>
+</p>
+
 <h1 align="center">¡Hola! 👋 Soy Santiago Díaz Marín</h1>
 <h3 align="center">Técnico en desarrollo de software y estudiante de tecnología en análisis y desarrollo de software.</h3>
 
