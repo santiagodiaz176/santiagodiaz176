@@ -1,11 +1,11 @@
-<h1 align="center">I'm <a href="https://github.com/SantiagoDiazMarin">Santiago Díaz Marín</a>
-<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-
 <p align="center">
   <a href="https://github.com/SantiagoDiazMarin">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Technician;Software+Analysis+and+Development+Student;Problem+Solving;Critical+Thinking;Always+Learning+New+Things&center=true&width=500&height=45" />
   </a>
 </p>
+
+<h1 align="center">I'm <a href="https://github.com/SantiagoDiazMarin">Santiago Díaz Marín</a>
+<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me · Developer in Progress
