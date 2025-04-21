@@ -1,11 +1,21 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Bienvenida animada" width="600"/>
-</p>
-
-<h1 align="center">¡Hola! 👋 Soy Santiago Díaz Marín</h1>
-<h3 align="center">Técnico en desarrollo de software y estudiante de tecnología en análisis y desarrollo de software.</h3>
+<table>
+  <tr>
+    <td width="60%">
+      <h1>Hello there! 👋 I'm <strong>Santiago Díaz Marín</strong></h1>
+      <h3>Software development technician and student of software analysis and development</h3>
+      <p>Passionate about technology, with skills in web development, databases, and Python automation. Always eager to learn and grow professionally.</p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### 🧑‍💼 Professional Profile
+
+Software Development Technician
 
 ### 🧑‍💼 Perfil Profesional
 
