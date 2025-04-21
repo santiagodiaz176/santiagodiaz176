@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Technician;Software+Analysis+and+Development+Student;Problem+Solving;Critical+Thinking;Always+Learning+New+Things&center=true&width=500&height=45" />
   </a>
 </p>
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align="center">I'm <a href="https://github.com/SantiagoDiazMarin">Santiago Díaz Marín</a>
 <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
