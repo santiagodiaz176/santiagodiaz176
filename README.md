@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Technician;Software+Analysis+and+Development+Student;Problem+Solving;Critical+Thinking;Always+Learning+New+Things&center=true&width=500&height=45" />
   </a>
 </p>
-href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: BaseMax)
+<a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: BaseMax)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
