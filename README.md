@@ -13,7 +13,7 @@ Técnico en Desarrollo de Software y estudiante de Tecnología en Análisis y De
 
 ### 🛠️ Tecnologías y herramientas que manejo
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,mysql,bash,vscode" alt="Tecnologías" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql" alt="Tecnologías" />
 
 ---
 
@@ -58,7 +58,3 @@ Diseñé y desarrollé una app web que permite calificar automáticamente los co
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoDiazMarin&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-> *"Transformar ideas en código, y el código en soluciones reales."*  
