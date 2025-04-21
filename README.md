@@ -16,8 +16,6 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-<br><br>
-
 - 🎓 I am a **Software Development Technician** and currently a **Software Analysis and Development Technologist** student at **SENA**.
 - 🧠 Skilled in multiple programming languages, critical thinking, and problem-solving.
 - 🤝 Strong team collaboration and excellent interpersonal skills.
