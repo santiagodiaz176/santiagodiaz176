@@ -1,125 +1,111 @@
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Santiago Díaz Marín<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
+<h1 align="center">I'm <a href="https://github.com/SantiagoDiazMarin">Santiago Díaz Marín</a>
+<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+  <a href="https://github.com/SantiagoDiazMarin">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Technician;Full+Stack+Web+Student;Backend+Developer;Always+learning+new+things;Tech+Enthusiast&center=true&width=380&height=45">
+  </a>
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Estudiante de programacion de sofware
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
 
 <br><br>
 
-- :school: Técnico en Desarrollo de Software, estudiante de Análisis y Desarrollo de Software en Tecnología.
-- :trophy: Con conocimientos en diferentes lenguajes de programación, resolución de problemas y pensamiento crítico.
-- :technologist: Capacidad de trabajar en equipo y excelentes relaciones interpersonales.
-- :computer: Actualmente estoy desarrollando una aplicación web para la evaluación automática de estudiantes.
-- :nerd_face: Siempre aprendiendo nuevas tecnologías y herramientas.
-- :thinking: Actualmente en búsqueda de nuevas oportunidades profesionales.
+- 🎓 I am a **Software Development Technician** and currently a **Software Analysis and Development Technologist** student at **SENA**.
+- 🧠 Skilled in multiple programming languages, critical thinking, and problem-solving.
+- 🤝 Strong team collaboration and excellent interpersonal skills.
+- 🌐 Currently developing a web app for automatic student evaluation.
+- 📚 Constantly learning new technologies and tools.
+- 🚀 Looking for new professional opportunities.
 
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  
-## C O N T A C T O
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- **Ubicación**: Medellín, Antioquia
-- **Correo Electrónico**: santiagodiazmarin2018@gmail.com
-- **Teléfono**: 3135301221
+---
 
-## E X P E R I E N C I A
+## 📬 Contact
 
-### Desarrollo de Aplicación Web para Evaluación Automática
-- **Institución**: Institución Educativa Barrio Santander (2023)
-- **Descripción**: Desarrollo de una aplicación web que facilita la evaluación del conocimiento de los estudiantes, con calificación automática para reducir el tiempo que los educadores dedican a la calificación manual.
+- 📍 Location: Medellín, Antioquia, Colombia
+- 📧 Email: santiagodiazmarin2018@gmail.com
+- 📱 Phone: +57 313 530 1221
 
-## E S T U D I O S R E A L I Z A D O S
+---
 
-- **Tecnólogo en Análisis y Desarrollo de Software** - Servicio Nacional de Aprendizaje (SENA) – Actualidad.
-- **Bachiller Técnico en Desarrollo de Software** - Institución Educativa Barrio Santander (2023).
+## 💼 Experience
 
-## E S T U D I O S C O M P L E M E N T A R I O S
+### 📘 Web App for Automated Evaluation
+- 🏫 Institution: I.E. Barrio Santander (2023)
+- 📝 Description: Developed a web application to assess students' knowledge with automatic grading to reduce manual work for teachers.
 
-- **Introduction to Virtual Machines**
-- **Security Blue Team - Curso Iniciado**
-- **Introduction to Bash**
-  
-## R E F E R E N C I A S
+---
 
-- **Raul Andrés Berrio**  
-  Comunicador Social  
-  Celular: 3175015598
-  
-- **Andrés Eduardo Restrepo**  
-  Ingeniero en Telecomunicaciones  
-  Celular: 3023250391
+## 🎓 Education
+
+- 🧑‍🎓 Technologist in Software Analysis and Development – *SENA* (In progress)
+- 🎓 Technical High School in Software Development – *I.E. Barrio Santander* (2023)
+
+---
+
+## 📚 Complementary Studies
+
+- 🖥️ Introduction to Virtual Machines – Security Blue Team *(In Progress)*
+- 💻 Introduction to Bash – Security Blue Team *(In Progress)*
+
+---
+
+## 📇 References
+
+- 🧔‍♂️ Raul Andrés Berrio – Social Communicator – 📞 3175015598
+- 👨‍💼 Andrés Eduardo Restrepo – Telecommunications Engineer – 📞 3023250391
+
+---
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Programming Languages
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+---
 
-----	
+## 📈 GitHub Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
+<details><summary><h3>🔥 Streak Stats</h3></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoDiazMarin&theme=tokyonight_duo" /></p>
 </details>
-  
+
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoDiazMarin&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoDiazMarin&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="230px"/>
+</p>
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github)](https://github.com/7oSkaaa/github-readme-activity-graph)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SantiagoDiazMarin&theme=github" />
+</p>
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
-	
+<details><summary><h3>🏆 GitHub Trophies</h3></summary>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SantiagoDiazMarin&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+</p>
 </details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
+<details><summary><h3>📁 My Repositories</h3></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SantiagoDiazMarin&repo=project-example&theme=tokyonight" />
+</p>
 </details>
