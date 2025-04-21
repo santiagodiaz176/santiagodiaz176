@@ -54,3 +54,32 @@
 
 <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>Connect wiht me</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+
+
+<div align="center" class="icons-social" style="margin-left: 10px;">
+  
+  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/santiagodiazmarin/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
+  </a>
+  
+  <a style="margin-left: 10px;" target="_blank" href="https://github.com/SantiagoDiazMarin">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" />
+  </a>
+  
+  <a style="margin-left: 10px;" target="_blank" href="mailto:santiagodiazmarin2018@gmail.com">
+    <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail" />
+  </a>
+  
+  <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/tuperfil_instagram">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
+  </a>
+  
+  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@tucanal">
+    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube" />
+  </a>
+
+  <a style="margin-left: 10px;" target="_blank" href="https://tumejorcv.com/SantiagoDiazMarin.pdf">
+    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" alt="Resume" />
+  </a>
+
+</div>
