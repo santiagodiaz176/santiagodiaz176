@@ -1,6 +1,7 @@
 
 <h1 align="center">I'm <a href="https://github.com/SantiagoDiazMarin">Santiago Díaz Marín</a>
 <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
   <a href="https://github.com/SantiagoDiazMarin">
