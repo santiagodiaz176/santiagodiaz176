@@ -25,18 +25,6 @@
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 📬 Contact
-
-- 📍 Location: Medellín, Antioquia, Colombia
-- 📧 Email: santiagodiazmarin2018@gmail.com
-- 📱 Phone: +57 313 530 1221
-
-## 💼 Experience
-
-### 📘 Web App for Automated Evaluation
-- 🏫 Institution: I.E. Barrio Santander (2023)
-- 📝 Description: Developed a web application to assess students' knowledge with automatic grading to reduce manual work for teachers.
-
 ## 🎓 Education
 
 - 🧑‍🎓 Technologist in Software Analysis and Development – *SENA* (In progress)
