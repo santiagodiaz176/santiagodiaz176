@@ -73,13 +73,5 @@
   <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/tuperfil_instagram">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
   </a>
-  
-  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@tucanal">
-    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube" />
-  </a>
-
-  <a style="margin-left: 10px;" target="_blank" href="https://tumejorcv.com/SantiagoDiazMarin.pdf">
-    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" alt="Resume" />
-  </a>
 
 </div>
