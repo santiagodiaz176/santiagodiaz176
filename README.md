@@ -35,9 +35,6 @@
 - 🖥️ Introduction to Virtual Machines – Security Blue Team *(In Progress)*
 - 💻 Introduction to Bash – Security Blue Team *(In Progress)*
 
-
-## 🛠️ My Skills
-
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Programming Languages
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
